@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sontung34/recipe-app/static/css/main.1bfa66ce.css",
+    "main.js": "/sontung34/recipe-app/static/js/main.d333d1af.js",
+    "static/media/tung.jpg": "/sontung34/recipe-app/static/media/tung.f8c1a5029667aa91e312.jpg",
+    "static/media/catmeme.jpg": "/sontung34/recipe-app/static/media/catmeme.62171d8c5620dfa4605c.jpg",
+    "index.html": "/sontung34/recipe-app/index.html",
+    "main.1bfa66ce.css.map": "/sontung34/recipe-app/static/css/main.1bfa66ce.css.map",
+    "main.d333d1af.js.map": "/sontung34/recipe-app/static/js/main.d333d1af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bfa66ce.css",
+    "static/js/main.d333d1af.js"
+  ]
+}
